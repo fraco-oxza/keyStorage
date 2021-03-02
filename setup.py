@@ -10,6 +10,6 @@ setup(
     ],
     entry_points="""
         [console_scripts]
-        keys=keys.scripts:cli
+        keys=keyStorage.scripts:cli
     """
 )
